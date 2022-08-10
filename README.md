@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋Hello! I'm Afdal
+I'm a second year student of Informatics Engineering at Institut Teknologi Sepuluh Nopember. I'm learning about front-end web developement and working with HTML, CSS, JavaScript, and ReactJS.
+
+### :chart_with_upwards_trend: My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdalabdallah&show_icons=true&theme=algolia)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdalabdallah&layout=compact&theme=algolia)](https://github.com/afdalabdallah/github-readme-stats)
+<br>
+
+### :email: Connect
+[<img src="[http://www.google.com.au/images/nav_logo7.png](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)">]([http://google.com.au/](https://www.instagram.com/afdalabdallah))
 
 <!--
 **afdalabdallah/afdalabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
