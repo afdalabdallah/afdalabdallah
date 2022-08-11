@@ -7,7 +7,7 @@ I'm a second year student of Informatics Engineering at Institut Teknologi Sepul
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdalabdallah&layout=compact&theme=algolia)](https://github.com/afdalabdallah/github-readme-stats)
 <br>
 <!-- ### 📫 Get My Contact -->
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/muhammad-afdal-abdallah-808183201)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-afdal-abdallah-808183201)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afdalabdallah/)
 
 
