@@ -4,7 +4,7 @@ I'm a second year student of Informatics Engineering at Institut Teknologi Sepul
 ### :chart_with_upwards_trend: My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdalabdallah&show_icons=true&theme=algolia)
 <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afdalabdallah&theme=algolia&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afdalabdallah&theme=github-dark&hide_border=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdalabdallah&layout=compact&theme=algolia)](https://github.com/afdalabdallah/github-readme-stats)
 <br>
